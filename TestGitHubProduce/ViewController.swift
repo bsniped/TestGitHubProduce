@@ -14,8 +14,9 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         print("Hello World, this in the mainline")
         print("Modifications by Tylerx1")
-        print("Modification by Tyler w/o conflicting code")
-        print("modification by Tyler w/o conflicting code x 2 ")
+        print("Modification by who? w/o conflicting code")
+        print("modification by Tylyr w/o conflicting code x 2, also a new addition to this line as referenced in line 19 ")
+        print("last modification by Tyler w/ conflicting code on line 17 and 18")
     }
 
   
