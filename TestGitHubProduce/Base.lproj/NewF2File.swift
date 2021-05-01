@@ -18,6 +18,7 @@ class NewF2File: UIView {
     */
     func printNewStuff () {
         print("This is a new start F2")
+        print("This is an addition for the 2nd commit")
     }
     
 }
