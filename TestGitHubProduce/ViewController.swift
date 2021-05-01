@@ -25,6 +25,9 @@ class ViewController: UIViewController {
         }
     }
     
+    func afterMergingAll () {
+        print("here we can see if the featurebranch1 will continue after accepting the mainline changes that have incorportated featurebranch2 updates")
+    }
 
   
 }
